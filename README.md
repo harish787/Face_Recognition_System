@@ -1,1 +1,1 @@
-# Panchayat-_Resolution_System
+#Face_Recognition_System
